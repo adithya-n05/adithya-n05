@@ -1,5 +1,5 @@
 ![Octocat!](octocat.png)
-<h3 align="center">Student @ Imperial College London | Sponsor Liaison for Department of Computing Society @ Imperial College London | Applied ML enthusiast! </h3>
+<h3 align="center">Student @ Imperial College London | Sponsor Liaison @ Department of Computing Society | Applied ML enthusiast! </h3>
 
 ## A little bit about me
 
