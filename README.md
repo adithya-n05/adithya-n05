@@ -6,6 +6,7 @@ For more info on my work experiences and my CV, visit my [website](adithyab.dev)
 
 Contact:
 | Platform | Contact |
+| -------- | ------- |
 | LinkedIn | www.linkedin.com/in/badithyanarayanan/ |
 | Email | [adithya.balaji22@imperial.ac.uk](mailto:adithya.balaji22@imperial.ac.uk) |
 
