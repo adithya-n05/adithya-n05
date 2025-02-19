@@ -1,8 +1,8 @@
-I'm a Joint Mathematics and Computing student at Imperial College London. I am an incoming software engineer intern at Palantir.
+I'm a Joint Mathematics and Computer Science student at Imperial College London. I will be joining Palantir this summer as a Software Engineer Intern.
 
 I am also the sponsor liaison for the Department of Computing Society at Imperial. Feel free to reach out to me regarding any work opportunities or to sponsor DoCSoC via any one of the contacts below.
 
-For more info on my work experiences and my CV, visit my [website](https://adithyab.dev/).
+For more info on my list of previous work experiences and my CV, visit my [website](https://adithyab.dev/).
 
 Contact:
 | Platform | Contact |
