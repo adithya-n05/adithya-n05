@@ -6,5 +6,5 @@ Contact:
 | Platform | Contact |
 | -------- | ------- |
 | LinkedIn | www.linkedin.com/in/badithyanarayanan/ |
-| Email | [adithya.balaji22@imperial.ac.uk](mailto:adithya.balaji22@imperial.ac.uk) |
+| Email | adithya [dot] balaji22 [at] imperial [dot] ac [dot] uk |
 
