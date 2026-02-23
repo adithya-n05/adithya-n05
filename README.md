@@ -1,6 +1,6 @@
 Hey!
 
-I'm a Student at Imperial College London studying Mathematics and Computing. I love working on open source project and have displayed some of my work below :D
+I'm a Student at Imperial College London studying Mathematics and Computing.
 
 I previously worked at Palantir as a SWE intern and I will be joining Optiver in the summer as a Software Engineer Intern in London.
 
