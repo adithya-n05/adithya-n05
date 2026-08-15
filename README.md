@@ -1,8 +1,8 @@
 Hey!
 
-I'm a Student at Imperial College London studying Mathematics and Computing.
+I'm a Student at Imperial College London studying Mathematics and Computing. I'm a QD/SWE intern at Optiver London.
 
-I previously worked at Palantir as a SWE intern and I will be joining Optiver in the summer as a Software Engineer Intern in London.
+I previously worked as a SWE intern @ Palantir.
 
 For more info on my list of previous work experiences and my CV, visit my [website](https://adithyab.dev/).
 
